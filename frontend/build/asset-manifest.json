@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1d58cd4.css",
+    "main.js": "/static/js/main.97e56425.js",
+    "static/media/bannerbg2.png": "/static/media/bannerbg2.61581f0c091791ecfd20.png",
+    "static/media/clientbn.jpg": "/static/media/clientbn.685296bfafdb21fc8cb9.jpg",
+    "static/media/woodbg.jpg": "/static/media/woodbg.ad40535717c06045cba6.jpg",
+    "static/media/andrew-neel-ute2XAFQU2I-unsplash.jpg": "/static/media/andrew-neel-ute2XAFQU2I-unsplash.6b69c7a1efba01b1f554.jpg",
+    "static/media/notesbg.jpg": "/static/media/notesbg.541ae3209254e97a2169.jpg",
+    "static/media/dp.jpg": "/static/media/dp.ef319624a758aaf40c7b.jpg",
+    "static/media/clientsbg.jpg": "/static/media/clientsbg.3c35976a81e5e5a862ab.jpg",
+    "static/media/ordersbg.jpg": "/static/media/ordersbg.94a11797fa8c8ba0e0e5.jpg",
+    "static/media/notes.jpg": "/static/media/notes.30a6937f0c70f02751db.jpg",
+    "static/media/prodbg.jpg": "/static/media/prodbg.7b01f02082bc022c4b2d.jpg",
+    "static/media/addclientimg.jpg": "/static/media/addclientimg.4e278094b2abd16ccb9b.jpg",
+    "static/media/planepaper.jpg": "/static/media/planepaper.fc50740b3d469fdae429.jpg",
+    "static/media/songbg.jpg": "/static/media/songbg.4500fd074903c32b6a0c.jpg",
+    "static/media/songimg.jpg": "/static/media/songimg.4f4b6c7f0ac563eb530d.jpg",
+    "static/media/salesbg.jpg": "/static/media/salesbg.6ba20bfe0d335dea62b4.jpg",
+    "static/media/refundbg.jpg": "/static/media/refundbg.2c2577fc50f1ee37c082.jpg",
+    "static/media/smoke.jpg": "/static/media/smoke.a101c3a13870df96beae.jpg",
+    "static/media/orderpagebg.jpg": "/static/media/orderpagebg.962c023405e3416366cf.jpg",
+    "static/media/timebg.jpg": "/static/media/timebg.a24d29d09d1e8e74721d.jpg",
+    "static/media/profitbgjpg.jpg": "/static/media/profitbgjpg.10828affa4fcbabd2a1b.jpg",
+    "static/media/graph.png": "/static/media/graph.b12d6f45ba0ff22cd2b5.png",
+    "static/media/pngegg.png": "/static/media/pngegg.f4c041b17b64b7957941.png",
+    "static/media/logo.png": "/static/media/logo.512154a4eb58176f2217.png",
+    "index.html": "/index.html",
+    "main.a1d58cd4.css.map": "/static/css/main.a1d58cd4.css.map",
+    "main.97e56425.js.map": "/static/js/main.97e56425.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d58cd4.css",
+    "static/js/main.97e56425.js"
+  ]
+}
